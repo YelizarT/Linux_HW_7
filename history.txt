@@ -1,0 +1,9 @@
+1  vi /tmp/File.txt
+2  df -h
+3  vi File.txt
+4  chmod g+w File.txt
+5  chmod u-r File.txt
+6  chmod o+x File.txt
+7  cd /tmp
+8  ls -al
+9  history > history.txt
